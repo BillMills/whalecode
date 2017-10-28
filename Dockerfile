@@ -1,4 +1,3 @@
-FROM nginx:stable-alpine
+FROM node:alpine
 
-ADD index.html /usr/share/nginx/html/index.html
-
+ADD website /website
