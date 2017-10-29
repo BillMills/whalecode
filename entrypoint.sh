@@ -1,4 +1,4 @@
-ce website
+cd website
 npm i
 npm run build
 npm start
